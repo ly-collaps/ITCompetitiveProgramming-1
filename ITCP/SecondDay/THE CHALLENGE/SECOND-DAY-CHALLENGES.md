@@ -1,5 +1,5 @@
 
-# ITCompetitiveProgramming First day challenges 
+# ITCompetitiveProgramming Second day challenges 
 
 ## Probleme 01: LINUX 
 
@@ -135,9 +135,9 @@ a3=[2,4] or a3=[4,2]
 Check if in array in monotone or not 
 monotone array : 
 ```
-a=[1,2,2,4,5]
-b=[10,8,7,6,6,0,-1]
-c=[0,2,1] NON MONOTONE
+a=[1,2,2,4,5] //MONOTONE
+b=[10,8,7,6,6,0,-1]// MONOTONE
+c=[0,2,1] //NON MONOTONE
 ```
 ## Problem 11:
 
@@ -147,7 +147,7 @@ word = " ITc" // false
 
 ## Problem 12: 
 
-reverse the the given string
+reverse the the given string without using arrays
 
 Ex :
 ```
@@ -175,7 +175,7 @@ a=[8, 9, 10, 2, 5, 6] // 3
 b=[2, 5, 6, 8, 9, 10] // 0
 ```
 ## Problem 16:
-given an integer x , return reversed-x 
+given an integer x , return reversed-x without using arrays
 ```
 x = -1230 
 x= -321
